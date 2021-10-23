@@ -15,7 +15,7 @@ We create software products for **Horizon Modding Kernel**.
 
 ## What is the purpose of this project?
 
-> Create software for best expirince in Minecraft Bedrock Modding.
+> Create software for best experience in Minecraft Bedrock Modding.
 
 ## Why is this project important?
 
